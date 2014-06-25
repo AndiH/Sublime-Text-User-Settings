@@ -10,7 +10,7 @@
             "cpplint": {
                 "@disable": false,
                 "args": [
-                    "--filter=-whitespace/tab,-whitespace/line_length"
+                    "--filter=-whitespace/tab,-whitespace/line_length,-whitespace/end_of_line"
                 ],
                 "excludes": [],
                 "filter": ""
