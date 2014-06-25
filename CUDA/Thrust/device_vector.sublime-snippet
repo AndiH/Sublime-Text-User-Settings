@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+thrust::device_vector<${1:type}> ${2:d_v}${3:()};
+]]></content>
+	<tabTrigger>dv</tabTrigger>
+	<scope>source.cuda-c++</scope>
+	<description>thrust::device_vector</description>
+</snippet>

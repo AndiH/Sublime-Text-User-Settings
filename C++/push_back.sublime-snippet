@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:vectorname}.push_back(${2:value});
+]]></content>
+	<description>push_back to vector</description>
+    <tabTrigger>push_back</tabTrigger>
+    <scope>source.c, source.objc, source.c++, source.objc++, source.cuda-c++</scope>
+</snippet>
