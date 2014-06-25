@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"soda_classic_tabs": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"word_wrap": true
+}

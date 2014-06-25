@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Gist",
+		"Glue",
+		"Markdown Extended",
+		"Marked App Menu",
+		"SublimeLinter",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-pylint",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
