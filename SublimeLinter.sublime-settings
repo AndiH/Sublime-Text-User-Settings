@@ -7,6 +7,18 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "chktex": {
+                "@disable": false,
+                "args": [],
+                "erroron": [
+                    16
+                ],
+                "excludes": [],
+                "nowarn": [
+                    22,
+                    30
+                ]
+            },
             "cpplint": {
                 "@disable": false,
                 "args": [

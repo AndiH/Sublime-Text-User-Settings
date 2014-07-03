@@ -3,11 +3,13 @@
 	[
 		"BracketHighlighter",
 		"Gist",
+		"GitHub Flavored Markdown Preview",
 		"Glue",
 		"LaTeXTools",
 		"Markdown Extended",
 		"Marked App Menu",
 		"SublimeLinter",
+		"SublimeLinter-chktex",
 		"SublimeLinter-cpplint",
 		"SublimeLinter-pylint",
 		"Theme - Soda",
