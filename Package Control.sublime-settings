@@ -1,17 +1,26 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Anaconda",
 		"BracketHighlighter",
+		"CMake",
+		"CUDA C++",
 		"Gist",
+		"Git",
+		"GitGutter",
 		"GitHub Flavored Markdown Preview",
 		"Glue",
 		"LaTeXTools",
 		"Markdown Extended",
+		"Markdown Preview",
 		"Marked App Menu",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
 		"SublimeLinter-cpplint",
 		"SublimeLinter-pylint",
+		"Theme - Flatland",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
