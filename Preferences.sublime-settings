@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"color_scheme": "Packages/Colorcoder/Tomorrow-Night (SL) (Colorcoded).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_options":
 	[
@@ -10,10 +10,16 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage",
 		"SublimeCodeIntel"
 	],
 	"line_padding_bottom": 1,
+	"original_color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"rulers":
+	[
+		80
+	],
 	"soda_classic_tabs": true,
 	"spell_check": true,
 	"tab_size": 4,
