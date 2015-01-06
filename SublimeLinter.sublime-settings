@@ -14,6 +14,9 @@
                     16
                 ],
                 "excludes": [],
+                "inputfiles": [
+                    0
+                ],
                 "nowarn": [
                     22,
                     30
@@ -29,12 +32,14 @@
             },
             "pylint": {
                 "@disable": false,
-                "args": [],
+                "args": [
+                    "--disable=mixed-indentation,invalid-name"
+                ],
                 "disable": "",
                 "enable": "",
                 "excludes": [],
                 "paths": [],
-                "rcfile": "",
+                "rcfile": "/Users/Andi/.pylintrc",
                 "show-codes": false
             }
         },
