@@ -1,27 +1,47 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Anaconda",
 		"BracketHighlighter",
 		"CMake",
+		"Color Highlighter",
+		"Colorcoder",
 		"CUDA C++",
+		"Diffy",
+		"DoxyDoc",
+		"Fix Mac Path",
 		"Gist",
 		"Git",
 		"GitGutter",
 		"GitHub Flavored Markdown Preview",
 		"Glue",
+		"Jekyll",
 		"LaTeXTools",
 		"Markdown Extended",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Marked App Menu",
+		"Package Control",
 		"SideBarEnhancements",
+		"SimpleSync",
+		"sublime-github",
+		"SublimeAStyleFormatter",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
 		"SublimeLinter-cpplint",
 		"SublimeLinter-pylint",
 		"Theme - Flatland",
 		"Theme - Soda",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"WordCount",
+		"Wrap Plus"
 	]
 }
